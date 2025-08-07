@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <defs>
+    <style>
+      .c0{fill:#9BBC0F}
+      .c1{fill:#8BAC0F}
+      .c2{fill:#306230}
+      .c3{fill:#0F380F}
+    </style>
+  </defs>
+  <rect width="16" height="16" class="c0"/>
+  <rect x="3" y="10" width="10" height="2" class="c2"/>
+  <rect x="6" y="3" width="4" height="5" class="c1"/>
+  <rect x="5" y="4" width="1" height="1" class="c3"/>
+  <rect x="10" y="4" width="1" height="1" class="c3"/>
+  <rect x="7" y="6" width="2" height="1" class="c3"/>
+</svg>
+
